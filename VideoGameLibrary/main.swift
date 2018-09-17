@@ -7,3 +7,9 @@
 //
 
 import Foundation
+
+print("Welcome to the Video Game Library\n")
+
+let libraryMenu = Menu()
+
+libraryMenu.go()
